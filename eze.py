@@ -40,5 +40,5 @@ def count_l(w):
     for l, count in l_count.items():
         print(f"{l.upper()}-{count}")
 
-w = input('slpit symbol > ')
+w = input('Vvedite predlojenie > ')
 count_l(w)
